@@ -1,0 +1,110 @@
+/* vip部分 */
+
+.vip {
+    height: 1648px;
+    background: #f2f2f2;
+}
+
+h4 {
+    text-align: center;
+}
+
+.col-sm-9 {
+    text-align: center;
+    background: #fff;
+    width: 1160px;
+    height: 90px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.col-sm-6 {
+    line-height: 30px;
+    padding: 30px;
+    margin-left: 300px;
+}
+
+.col-sm-6 span {
+    width: 50px;
+    height: 50px;
+}
+
+.col-sm-4 {
+    width: 275px;
+    height: 170px;
+    background: #fff;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.col-sm-4 p {
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.col-sm-4 p:nth-child(2) {
+    color: red;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.col-sm-4 .btn {
+    color: #fff;
+    background: red;
+    margin: 0 auto;
+    display: block;
+    text-decoration: none;
+}
+
+.nav-tabs {
+    margin-top: 60px;
+    margin-left: 410px;
+    border: none;
+}
+
+.tab-content .col-sm-4 {
+    width: 275px;
+    height: 230px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tab-content img {
+    width: 245px;
+    height: 120px;
+}
+
+.tab-content h3 {
+    text-align: center;
+}
+
+.tab-content .col-sm-4 p {
+    padding: 0;
+    margin: 0;
+}
+
+.tab-content .btn {
+    margin-top: 28px;
+    /* margin-left: 10px; */
+}
+
+.pagination {
+    margin-left: 410px;
+}
+
+.caption img {
+    /* height: 100px; */
+    border: 1px solid #ccc;
+    transition: all .6s;
+    width: 100%;
+}
+
+.caption {
+    overflow: hidden;
+}
+
+.caption img:hover {
+    transform: scale(1.2);
+}

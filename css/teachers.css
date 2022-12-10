@@ -1,0 +1,37 @@
+.teachers {
+    height: 800px;
+    background: #f2f2f2;
+}
+
+.breadcrumb {
+    background: #f2f2f2;
+    margin-bottom: 5px;
+}
+
+.row {
+    width: 1170px;
+    height: 760px;
+    margin-left: -5px;
+}
+
+.thumbnail {
+    width: 275px;
+    height: 200px;
+    text-align: center;
+}
+
+.thumbnail img:hover {
+    transform: rotateY(180deg);
+    transition: all 0.5s;
+}
+
+.thumbnail img {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    text-align: center;
+}
+
+.pagination {
+    margin-left: 460px;
+}

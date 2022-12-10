@@ -1,0 +1,131 @@
+/* cource部分 */
+
+.cource {
+    height: 1321px;
+    background: #f2f2f2;
+}
+
+.cource-warp1 {
+    width: 1160px;
+    height: 175px;
+    background: #fff;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.warp1 {
+    padding-bottom: 1px;
+    height: 50px;
+    width: 1120px;
+}
+
+.warp1 .list-group {
+    float: left;
+}
+
+.warp1 .list-group .list-group-item {
+    float: left;
+    margin-left: 45px;
+    margin-top: -40px;
+    border: 1px solid #fff;
+    color: #000;
+}
+
+.warp1 .list-group .list-group-item a {
+    color: #000;
+}
+
+.cource-warp2 {
+    width: 1160px;
+    height: 43px;
+    background: #fff;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.cource-warp2 .list-group {
+    float: left;
+}
+
+.cource-warp2 .list-group .list-group-item {
+    float: left;
+    border: none;
+    list-style: none;
+}
+
+.cource-warp2 a {
+    width: 10px;
+    height: 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+.cource-warp2 .ai {
+    background: #009688;
+    color: #fff;
+}
+
+.cource-warp1 .ai1 {
+    background: #009688;
+    color: #f2f2f2;
+}
+
+.row {
+    float: left;
+    margin-bottom: 20px;
+}
+
+.thumbnail {
+    width: 275px;
+    height: 230px;
+    margin-left: 10px;
+    overflow: hidden;
+}
+
+.thumbnail img {
+    width: 275px;
+    height: 100px;
+    /* border-radius: 50%; */
+    border: 1px solid #ccc;
+    transition: all .6s;
+}
+
+.thumbnail img:hover {
+    transform: scale(1.2);
+}
+
+.thumbnail span:nth-child(1) {
+    font-weight: 700;
+    text-decoration: line-through;
+}
+
+.thumbnail span:nth-child(2) {
+    font-weight: 700;
+    color: red;
+}
+
+.btn a {
+    margin-left: 1px;
+    list-style: none;
+    text-decoration: none;
+    background: red;
+    color: #fff;
+}
+
+.btn-link {
+    background: red;
+    color: #fff;
+}
+
+.btn-link:hover {
+    background: red;
+    color: #fff;
+}
+
+.caption {
+    text-align: center;
+}
+
+.pagination {
+    margin-left: 465px;
+}

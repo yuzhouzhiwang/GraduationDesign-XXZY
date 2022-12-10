@@ -1,0 +1,68 @@
+    /* registered部分 */
+    
+    .logon {
+        height: 700px;
+        background: #f2f2f2;
+    }
+    
+    .breadcrumb {
+        background: #f2f2f2;
+        /* margin-left: 175px; */
+    }
+    
+    .logon .breadcrumb li {
+        margin-left: 5px;
+    }
+    
+    .logon1 {
+        padding: 20px;
+        margin: 20px;
+        /* margin-left: 185px; */
+        background: #fff;
+        width: 1160px;
+        height: 380px;
+    }
+    
+    .logon1 ul {
+        text-align: center;
+        padding-left: 410px;
+    }
+    
+    form {
+        margin-top: 20px;
+    }
+    
+    .input-group {
+        width: 320px;
+        height: 38px;
+        margin-left: 348px;
+        margin-top: 15px;
+    }
+    
+    .checkbox {
+        margin-left: 348px;
+        margin-top: 15px;
+    }
+    
+    .form-control {
+        height: 39px;
+    }
+    
+    button {
+        width: 320px;
+        height: 38px;
+    }
+    
+    .list-group {
+        margin-top: 20px;
+        margin-left: 427px;
+    }
+    
+    .list-group-item {
+        float: left;
+        border: none;
+    }
+    
+    .footer {
+        margin-top: 150px;
+    }

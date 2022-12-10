@@ -1,0 +1,72 @@
+/* index部分 */
+
+.index {
+    height: 3096px;
+    background: #f2f2f2;
+}
+
+.index-lbt {
+    width: 1160px;
+    height: 376px;
+    background: #fff;
+    margin-top: 20px;
+}
+
+.index-lbt .carousel {
+    width: 1120px;
+    height: 376px;
+    margin: 20px;
+}
+
+.index-lbt .item img {
+    width: 1120px;
+    height: 376px;
+}
+
+.index-tab {
+    width: 1160px;
+    height: 640px;
+    background: #fff;
+    margin-top: 20px;
+    padding-bottom: 15px;
+}
+
+.index-tab h3 {
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+.footer {
+    height: 180px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.row,
+.thumbnail {
+    width: 250px;
+    height: 225px;
+    float: left;
+    padding: 10px;
+    margin: -3px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+    margin-left: -15px;
+    margin-top: 5px;
+}
+
+.thumbnail img {
+    width: 230px;
+    height: 120px;
+}
+
+.thumbnail p:nth-child(1) {
+    font-weight: 700;
+    text-align: center;
+}
+
+.thumbnail span {
+    margin-left: 10px;
+    margin-right: 10px;
+}

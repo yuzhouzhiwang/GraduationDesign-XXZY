@@ -1,0 +1,68 @@
+/* column部分 */
+
+.column {
+    height: 1836px;
+    background: #f2f2f2;
+}
+
+.breadcrumb {
+    background: #f2f2f2;
+}
+
+.row {
+    width: 1200px;
+}
+
+.col-md-8 {
+    background: #fff;
+    height: 1746px;
+    width: 800px;
+    margin-left: 20px;
+    padding: 20px;
+}
+
+.tj .media {
+    width: 760px;
+    height: 116px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    /* padding: 15px; */
+    border-bottom: 1px solid #ccc;
+}
+
+.tj .media img {
+    width: 180px;
+    height: 100px;
+    line-height: 100px;
+}
+
+.tj .media .media-body {
+    padding: 10px;
+}
+
+.tj .pagination {
+    margin-left: 226px;
+}
+
+.col-md-4 {
+    background: #fff;
+    height: 561px;
+    width: 340px;
+    margin-left: 15px;
+}
+
+.tjzz h3 {
+    border-bottom: 1px solid #ccc;
+}
+
+.tjzz img {
+    width: 48px;
+    height: 48px;
+}
+
+.tjzz .media {
+    border-bottom: 1px solid #ccc;
+    width: 310px;
+    height: 59px;
+    margin-bottom: -1px;
+}

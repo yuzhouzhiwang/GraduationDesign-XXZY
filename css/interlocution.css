@@ -1,0 +1,84 @@
+/* interlocution部分 */
+
+.interlocution {
+    height: 1836px;
+    background: #f2f2f2;
+}
+
+.breadcrumb {
+    background: #f2f2f2;
+}
+
+.container {
+    width: 1170px;
+    margin-bottom: -10px;
+}
+
+.row {
+    width: 1200px;
+}
+
+.pagination {
+    margin-left: 226px;
+}
+
+.col-md-8 {
+    background: #fff;
+    height: 1746px;
+    width: 800px;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.tab-content {
+    width: 760px;
+}
+
+.nav-tabs {
+    width: 760px;
+    margin-left: -13px;
+    padding-top: -2px;
+}
+
+.media {
+    width: 760px;
+    height: 116px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    /* padding: 15px; */
+    border-bottom: 1px solid #ccc;
+}
+
+.media .media-body {
+    padding: 10px;
+}
+
+.media img {
+    width: 180px;
+    height: 100px;
+    line-height: 100px;
+}
+
+.col-md-4 {
+    background: #fff;
+    height: 561px;
+    width: 340px;
+    margin-left: 15px;
+    margin-bottom: 20px;
+}
+
+.col-md-4 h3 {
+    border-bottom: 1px solid #ccc;
+}
+
+.col-md-4 .list-group-item {
+    border: none;
+    margin-top: 2px;
+}
+
+.col-md-4 .list-group-item a {
+    list-style: none;
+    text-decoration: none;
+    color: #000;
+}

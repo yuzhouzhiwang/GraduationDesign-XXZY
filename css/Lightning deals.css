@@ -1,0 +1,111 @@
+/* Lightning deals部分 */
+
+.LightningDeals {
+    height: 1769px;
+    background: #f2f2f2;
+}
+
+.LightningDeals .breadcrumb {
+    background: #f2f2f2;
+}
+
+.breadcrumb {
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 1160px;
+}
+
+.col-md-8 {
+    width: 1160px;
+    height: 386.8px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    background: #fff;
+}
+
+h2 {
+    text-align: center;
+    /* border-bottom: 1px solid #ccc; */
+}
+
+#Main,
+#Main1,
+#Main2,
+#Main3 {
+    border-bottom: 1px solid #ccc;
+    margin-right: 20px;
+}
+
+.nav-tabs {
+    border: none;
+    color: #000;
+    margin-top: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.col-md-4 {
+    width: 270px;
+    height: 205px;
+    margin-top: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.col-md-4 img {
+    width: 245px;
+    height: 120px;
+}
+
+.col-md-4 span {
+    margin-left: 2px;
+}
+
+.col-md-4 span:nth-child(1) {
+    font-weight: 700;
+    text-decoration: line-through;
+}
+
+.col-md-4 span:nth-child(2) {
+    font-weight: 700;
+    color: red;
+}
+
+.col-md-4 span:nth-child(3) {
+    color: #fff;
+}
+
+.btn a {
+    margin-left: 1px;
+    list-style: none;
+    text-decoration: none;
+    background: red;
+    color: #fff;
+}
+
+.btn-link {
+    background: red;
+    color: #fff;
+}
+
+.btn-link:hover {
+    background: red;
+    color: #fff;
+}
+
+.thumbnail img {
+    height: 100px;
+    border: 1px solid #ccc;
+    transition: all .6s;
+    width: 100%;
+}
+
+.thumbnail {
+    overflow: hidden;
+}
+
+.thumbnail img:hover {
+    transform: scale(1.2);
+}
